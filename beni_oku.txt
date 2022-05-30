@@ -1,0 +1,17 @@
+Parçalar:
+Raspberry pi zero w 
+16gb class 10 sd card
+ADS1115 adc (Raspberry pi tek başına analog değer okuyamaz )
+rc body cap 
+3d baskılar
+pertinaks
+header
+jst connector
+Piezo disk
+Direnç 
+
+Yazılım:
+ilk olarak ads den veri okunur bunun için ADS.py kütüphanesi kullanılır.
+okunun değer ilk olarak mutlak değer içine ardından ölçeklenir ve gönderilir
+
+programı çalıştırmak için
